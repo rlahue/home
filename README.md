@@ -11,19 +11,20 @@
 - ***Mastodon/Fediverse.*** &#128024; My secondary social media. [@shoren18@mstdn.social &#128279;](http://mstdn.social/@shoren18)
 	- **Ice Cubes** ([iOS App Store &#128279;](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)) is my preferred client right now.
 
-## &#128188; Every Day Carries
+## &#128694; Every Day Carries
 
 - ***Headphones.*** I use the open-ear, bone-conducting Shokz OpenMove (white w/ red accent stickers; [Shokz shop link &#128279;](https://shokz.com/products/openmove?variant=32327111671895), [Amazon shop link &#128279;](https://www.amazon.com/Shokz-OpenMove-Headphones-Conduction-Sweatproof/dp/B09BW29FJS?th=1)). The sound is decent, considering they're open-ear. Open-ear is a must for me in the office and when I'm out on walks.
-- ***Smartphone.*** iPhone 16 Pro Max (black) in a Nomad Modern Leather Case ([Nomad store link &#128279;](https://nomadgoods.com/products/modern-leather-case-black-iphone-16-pro-max?srsltid=AfmBOoop6BFD8hX7QmaJHE9gJdS_VyLSi79eAEq-0eLdtddbyYuvX5mZ)) with a black Popsocket MagSafe PopGrip ([Popsocket store link &#128279;](https://www.popsockets.com/en-us/p/magsafe/magsafe-grips/black-%E2%80%94-magsafe-popgrip/806828.html?cgid=magsafe-popgrips)).
-	- ***Browser.*** Firefox for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/firefox-fast-private-browser/id989804926))
-	- ***Email.*** Gmail for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)), although I check out the 1st party Mail app with every new major OS release. Someday it'll be ready for my prime time!
-	- ***Messaging.*** Signal for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/signal-private-messenger/id874139669))
-	- ***Music.*** I use a combination of Apple Music and Apple Music Classical.
+- ***Smartphone.*** iPhone 16 Pro Max (black titanium) ([Apple spec link &#128279;](https://support.apple.com/en-us/121032)) in a Nomad Modern Leather Case ([Nomad store link &#128279;](https://nomadgoods.com/products/modern-leather-case-black-iphone-16-pro-max?srsltid=AfmBOoop6BFD8hX7QmaJHE9gJdS_VyLSi79eAEq-0eLdtddbyYuvX5mZ)) with a black Popsocket MagSafe PopGrip ([Popsocket store link &#128279;](https://www.popsockets.com/en-us/p/magsafe/magsafe-grips/black-%E2%80%94-magsafe-popgrip/806828.html?cgid=magsafe-popgrips)). Unless otherwise stated, I'm using the 1st party iOS apps for things.
+	- ***Browser.*** Firefox ([iOS App Store link &#128279;](https://apps.apple.com/us/app/firefox-fast-private-browser/id989804926))
+	- ***Email.*** Gmail ([iOS App Store link &#128279;](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)), although I check out the 1st party Mail app with every new major OS release. Someday it'll be ready for my prime time!
+	- ***Messaging.*** Signal ([iOS App Store link &#128279;](https://apps.apple.com/us/app/signal-private-messenger/id874139669))
+	- ***Music.*** I use a combination of Apple Music and Apple Music Classical ([iOS App Store link &#128729;](https://apps.apple.com/us/app/apple-music-classical/id1598433714)).
  	- ***Password Manager.*** 1Password ([iOS App Store link &#128279;](https://apps.apple.com/us/app/1password-password-manager/id1511601750))
 	- ***Podcasts.*** Overcast ([iOS App Store link &#128279;](https://apps.apple.com/us/app/overcast-podcast-app/id888422857))
-	- ***Reading.*** For eBooks, I use Kindle for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)).
-	- ***Recipe Management.*** Mela for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/mela-recipe-manager/id1548466041))
+	- ***Reading.*** For eBooks, I use Kindle ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)).
+	- ***Recipe Management.*** Mela ([iOS App Store link &#128279;](https://apps.apple.com/us/app/mela-recipe-manager/id1548466041))
 	- ***Terminal.*** a-Shell ([iOS App Store link &#128279;](https://apps.apple.com/us/app/a-shell/id1473805438))
+	- ***Text Editting.*** iA Writer ([iOS App Store link &#128279;](https://apps.apple.com/us/app/ia-writer/id775737172))
 - ***Smartwatch / Fitness Tracker.*** Apple Watch Series 10 (GPS, 46mm, aluminum) with a Pride watch band I found on Amazon (link at some point). It's fine for my usecase. I don't run any 3rd party apps on it, as you'd expect.
 - ***Tablet.*** I use an iPad Pro 12.9" (5th Gen; M1) ([Apple spec link &#128279;](https://support.apple.com/en-us/111896)) with a cracked screen that I rescued from the electronic recycling bin at my old job when they didn't want to pay to replace the screen. It's got a screen protector on and it works fine other than the cracked glass.
 	- ***Art.*** Procreate for iPad ([iPadOS App Store link &#128279;](https://apps.apple.com/us/app/procreate/id425073498))
@@ -34,6 +35,34 @@
 These aren't in any particular order.
 
 My podcast player ("podcatcher") of choice is [Overcast for iOS &#128279;](https://overcast.fm/).
+
+### &#127897;&#127917; Fiction
+I mostly listen to horror fiction. *Links and summaries to come.*
+
+- ***Knifepoint Horror.***
+- ***The Magnus Archives.***
+- ***The NoSleep Podcast.***
+- ***Scared to Death Podcast.***
+- ***Wrong Station.***
+
+### &#127897;&#128240; Inter/National News
+I still try and get a little news in every day, even if i'm overwhelmed. *Links to come.*
+
+- ***Democracy Now!*** When I have the bandwidth, I listen to Democracy Now! for more breadth to my news (less Centrism) than I get with the standard bureaus.
+- ***NPR News Now.*** For when I don't have the bandwith for the PBS News Hour.
+- ***PBS News Hour.*** On a good day, I listen to the interesting segments of the PBS News Hour to supplement what I get through social media (I follow a lot of journalists).
+
+### &#127897;&#127974; Political-Economic News & Discussion
+*Links and summaries to come.*
+
+- ***Know Your Enemy.***
+- ***Marketplace.***
+
+### &#127897;&#128253; Pop Culture
+*Links and summaries to come.*
+
+- ***Hollywoodland.***
+- ***Triple Click.***
 
 ### &#127897;&#128187; Tech News
 My tech news diet tends to be more Apple-focused because I find the things Apple does more interesting.
@@ -53,7 +82,7 @@ My tech news diet tends to be more Apple-focused because I find the things Apple
 	- [**Spotify** feed &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
  	- [**Website** &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
 
-### &#127897;&#128172; Tech Discussion
+### &#127897;&#128172; Tech Talk
 AKA tech podcast bros chatting, mostly about Apple.
 
 - ***Accidental Tech Podcast.*** Imagine three Apple-focused nerdy Dads talking. If that idea is not for you, then neither is this podcast. Hosted by Marco Arment (Tumblr, Overcast), Casey Liss (CallSheet), and John Siracusa (Ars Technica, Hypercritical).
