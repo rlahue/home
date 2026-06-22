@@ -5,6 +5,8 @@
 ### Tech News
 
 - 9to5 Mac Happy Hour
+- Upgrade
+- The Vergecast
 
 ### Tech Discussion
 AKA tech podcast bros chatting
