@@ -1,11 +1,17 @@
 # RJ (@shoren18)
 
+## &#127760; Socials
+
+- ***Bluesky/ATmosphere.*** &#129419; My primary social media. [@shoren18@bsky.social &#128279;](https://bsky.app/profile/shoren18.bsky.social)
+- ***Mastodon/Fedi.*** &#128024; My secondary social media. [@shoren18@mstdn.social &#128279;](http://mstdn.social/@shoren18)
+	- **Ice Cubes** ([iOS App Store &#128279;](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)) is my preferred client right now. 
+
 ## &#127897; Podcast Recommendations
 These aren't in any particular order.
 
 My podcast player ("podcatcher") of choice is [Overcast for iOS &#128279;](https://overcast.fm/).
 
-### Tech News
+### &#127897;&#128187; Tech News
 My tech news diet tends to be more Apple-focused because I find the things Apple does more interesting.
 
 - ***9to5 Mac Happy Hour.*** Just the week's Apple news, hosted by Benjamin Mayo and Chance Miller. 
@@ -23,7 +29,7 @@ My tech news diet tends to be more Apple-focused because I find the things Apple
 	- [**Spotify** feed &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
  	- [**Website** &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
 
-### Tech Discussion
+### &#127897;&#128172; Tech Discussion
 AKA tech podcast bros chatting, mostly about Apple.
 
 - ***Accidental Tech Podcast.*** Imagine three Apple-focused nerdy Dads talking. If that idea is not for you, then neither is this podcast. Hosted by Marco Arment (Tumblr, Overcast), Casey Liss (CallSheet), and John Siracusa (Ars Technica, Hypercritical).
@@ -33,13 +39,13 @@ AKA tech podcast bros chatting, mostly about Apple.
 	- [**Website** &#128279;](https://atp.fm/)
 - ***Connected.*** Imagine three Apple-focused nerdy boys talking. If that idea is not for you, then neither is this podcast. Hosted by Federico Viticci (MacStories), Stephen Hackett (512 Pixels, formerly Mac Power Users), and Myke Hurley (Cortex).
 	- [**Apple Podcasts** feed &#128279;](https://itunes.apple.com/us/podcast/id909109652)
-	- [**Overcast** feed &128279;](https://overcast.fm/itunes909109652/connected)
+	- [**Overcast** feed &#128279;](https://overcast.fm/itunes909109652/connected)
 	- [**RSS** feed &#128279;](https://relay.fm/connected/feed)
 	- [**Spotify** feed &#128279;](https://open.spotify.com/show/11olYIIlJdHjJAIWpFUTjR?si=xls2UkHfSz2q17xY10xzRQ)
 	- [**Website** &#128279;](https://relay.fm/connected)
 - ***The Rebound.*** Imagine three Apple-focused-ish random-ish nerdy-ish guys talking. If that idea is not for you, then neither is this podcast. Hosted by Dan Moren (scifi author, byline at 6 Colors), John Moltz (Macalope), and Lex Friedman (no, not that one).
 	- [**Apple Podcasts** feed &#128279;](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=920242161&mt=2&ls=1)
-  	- [**Overcast** feed &#128279;](https://overcast.fm/itunes920242161)
-  	- [**RSS** feed &#128279;](https://rss.art19.com/the-rebound)
-  	- [**Spotify** feed &#128279;](https://open.spotify.com/show/4DOGfCAkn6teia6QQuL4B5)
+	- [**Overcast** feed &#128279;](https://overcast.fm/itunes920242161)
+ 	- [**RSS** feed &#128279;](https://rss.art19.com/the-rebound)
+	- [**Spotify** feed &#128279;](https://open.spotify.com/show/4DOGfCAkn6teia6QQuL4B5)
 	- [**Website** &#128279;](https://reboundcast.com/)
