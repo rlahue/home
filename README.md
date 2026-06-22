@@ -26,7 +26,7 @@ My tech news diet tends to be more Apple-focused because I find the things Apple
 ### Tech Discussion
 AKA tech podcast bros chatting, mostly about Apple.
 
-- ***Accidental Tech Podcast.*** Imagine three Apple-focused nerdy Dads talking. If that idea is not for you, then neither is this podcast. Hosted by Marco Arment (Tumblr, Overcast), Casey Newton, and John Siracusa (Ars Technica, Hypercritical).
+- ***Accidental Tech Podcast.*** Imagine three Apple-focused nerdy Dads talking. If that idea is not for you, then neither is this podcast. Hosted by Marco Arment (Tumblr, Overcast), Casey Liss (CallSheet), and John Siracusa (Ars Technica, Hypercritical).
 	- [**Apple Podcasts** feed &#128279;](https://podcasts.apple.com/us/podcast/id617416468)
 	- [**Overcast** feed &#128279;](https://overcast.fm/itunes617416468)
 	- [**RSS** feed &#128279;](https://atp.fm/rss)
@@ -37,7 +37,7 @@ AKA tech podcast bros chatting, mostly about Apple.
 	- [**RSS** feed &#128279;](https://relay.fm/connected/feed)
 	- [**Spotify** feed &#128279;](https://open.spotify.com/show/11olYIIlJdHjJAIWpFUTjR?si=xls2UkHfSz2q17xY10xzRQ)
 	- [**Website** &#128279;](https://relay.fm/connected)
-- ***The Rebound.*** Imagine three Apple-focused-ish random-ish nerdy-ish guys talking. If taht idea is not for you, then neither is this podcast. Hosted by Dan Moren (scifi author, byline at 6 Colors), John Moltz (Macalope), and Lex Friedman (no, not that one).
+- ***The Rebound.*** Imagine three Apple-focused-ish random-ish nerdy-ish guys talking. If that idea is not for you, then neither is this podcast. Hosted by Dan Moren (scifi author, byline at 6 Colors), John Moltz (Macalope), and Lex Friedman (no, not that one).
 	- [**Apple Podcasts** feed &#128279;](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=920242161&mt=2&ls=1)
   	- [**Overcast** feed &#128279;](https://overcast.fm/itunes920242161)
   	- [**RSS** feed &#128279;](https://rss.art19.com/the-rebound)
