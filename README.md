@@ -1,10 +1,29 @@
 # RJ (@shoren18)
 
+## &#128199; Table of Contents
+- Socials ([page anchor &#128279;](https://rlahue.github.io/home/#-socials))
+- Every Day Carries (&#128279; forthcoming)
+- Podcast Recommendations ([page anchor &#128279;](https://rlahue.github.io/home/#-podcast-recommendations))
+
 ## &#127760; Socials
 
 - ***Bluesky/ATmosphere.*** &#129419; My primary social media. [@shoren18@bsky.social &#128279;](https://bsky.app/profile/shoren18.bsky.social)
-- ***Mastodon/Fedi.*** &#128024; My secondary social media. [@shoren18@mstdn.social &#128279;](http://mstdn.social/@shoren18)
-	- **Ice Cubes** ([iOS App Store &#128279;](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)) is my preferred client right now. 
+- ***Mastodon/Fediverse.*** &#128024; My secondary social media. [@shoren18@mstdn.social &#128279;](http://mstdn.social/@shoren18)
+	- **Ice Cubes** ([iOS App Store &#128279;](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)) is my preferred client right now.
+
+## &#128188; Every Day Carries
+
+- ***Smartphone.*** iPhone 16 Pro Max (black) in a Nomad Modern Leather Case ([Nomad store link &#128279;](https://nomadgoods.com/products/modern-leather-case-black-iphone-16-pro-max?srsltid=AfmBOoop6BFD8hX7QmaJHE9gJdS_VyLSi79eAEq-0eLdtddbyYuvX5mZ)) with a black Popsocket MagSafe PopGrip ([Popsocket store link &#128279;](https://www.popsockets.com/en-us/p/magsafe/magsafe-grips/black-%E2%80%94-magsafe-popgrip/806828.html?cgid=magsafe-popgrips)).
+	- ***Browser.*** Firefox for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/firefox-fast-private-browser/id989804926))
+	- ***Email.*** Gmail for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)), although I check out the 1st party Mail app with every new major OS release. Someday it'll be ready for my prime time!
+	- ***Messaging.*** Signal for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/signal-private-messenger/id874139669))
+	- ***Music.*** I use a combination of Apple Music and Apple Music Classical.
+ 	- ***Password Manager.*** 1Password ([iOS App Store link &#128279;](https://apps.apple.com/us/app/1password-password-manager/id1511601750))
+	- ***Podcasts.*** Overcast ([iOS App Store link &#128279;](https://apps.apple.com/us/app/overcast-podcast-app/id888422857))
+	- ***Reading.*** For eBooks, I use Kindle for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210))
+	- ***Terminal.*** a-Shell ([iOS App Store link &#128279;](https://apps.apple.com/us/app/a-shell/id1473805438))
+- ***Smartwatch / Fitness Tracker.*** Apple Watch Series 10 (GPS, 46mm, aluminum) with a Pride watch band I found on Amazon (link at some point). It's fine for my usecase. I don't run any 3rd party apps on it, as you'd expect.
+- ***Utility Knife.*** Gerberg Gear Paraframe I ([Amazon store link &#128279;](https://a.co/d/0fdHniDJ))
 
 ## &#127897; Podcast Recommendations
 These aren't in any particular order.
