@@ -1,8 +1,8 @@
-# RJ (@shoren18)
+# &#128058; RJ (@shoren18)
 
 ## &#128199; Table of Contents
 - Socials ([page anchor &#128279;](https://rlahue.github.io/home/#-socials))
-- Every Day Carries (&#128279; forthcoming)
+- Every Day Carries ([page anchor &#128279;](https://rlahue.github.io/home/#-every-day-carries))
 - Podcast Recommendations ([page anchor &#128279;](https://rlahue.github.io/home/#-podcast-recommendations))
 
 ## &#127760; Socials
@@ -13,6 +13,7 @@
 
 ## &#128188; Every Day Carries
 
+- ***Headphones.*** I use the open-ear, bone-conducting Shokz OpenMove (white w/ red accent stickers; [Shokz shop link &#128279;](https://shokz.com/products/openmove?variant=32327111671895), [Amazon shop link &#128279;](https://www.amazon.com/Shokz-OpenMove-Headphones-Conduction-Sweatproof/dp/B09BW29FJS?th=1)). The sound is decent, considering they're open-ear. Open-ear is a must for me in the office and when I'm out on walks.
 - ***Smartphone.*** iPhone 16 Pro Max (black) in a Nomad Modern Leather Case ([Nomad store link &#128279;](https://nomadgoods.com/products/modern-leather-case-black-iphone-16-pro-max?srsltid=AfmBOoop6BFD8hX7QmaJHE9gJdS_VyLSi79eAEq-0eLdtddbyYuvX5mZ)) with a black Popsocket MagSafe PopGrip ([Popsocket store link &#128279;](https://www.popsockets.com/en-us/p/magsafe/magsafe-grips/black-%E2%80%94-magsafe-popgrip/806828.html?cgid=magsafe-popgrips)).
 	- ***Browser.*** Firefox for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/firefox-fast-private-browser/id989804926))
 	- ***Email.*** Gmail for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)), although I check out the 1st party Mail app with every new major OS release. Someday it'll be ready for my prime time!
@@ -20,9 +21,13 @@
 	- ***Music.*** I use a combination of Apple Music and Apple Music Classical.
  	- ***Password Manager.*** 1Password ([iOS App Store link &#128279;](https://apps.apple.com/us/app/1password-password-manager/id1511601750))
 	- ***Podcasts.*** Overcast ([iOS App Store link &#128279;](https://apps.apple.com/us/app/overcast-podcast-app/id888422857))
-	- ***Reading.*** For eBooks, I use Kindle for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210))
+	- ***Reading.*** For eBooks, I use Kindle for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)).
+	- ***Recipe Management.*** Mela for iOS ([iOS App Store link &#128279;](https://apps.apple.com/us/app/mela-recipe-manager/id1548466041))
 	- ***Terminal.*** a-Shell ([iOS App Store link &#128279;](https://apps.apple.com/us/app/a-shell/id1473805438))
 - ***Smartwatch / Fitness Tracker.*** Apple Watch Series 10 (GPS, 46mm, aluminum) with a Pride watch band I found on Amazon (link at some point). It's fine for my usecase. I don't run any 3rd party apps on it, as you'd expect.
+- ***Tablet.*** I use an iPad Pro 12.9" (5th Gen; M1) ([Apple spec link &#128279;](https://support.apple.com/en-us/111896)) with a cracked screen that I rescued from the electronic recycling bin at my old job when they didn't want to pay to replace the screen. It's got a screen protector on and it works fine other than the cracked glass.
+	- ***Art.*** Procreate for iPad ([iPadOS App Store link &#128279;](https://apps.apple.com/us/app/procreate/id425073498))
+	- ***Stylus.*** Apple Pencil (2nd Generation) ([Apple spec link &#128279;](https://support.apple.com/en-us/111889))
 - ***Utility Knife.*** Gerberg Gear Paraframe I ([Amazon store link &#128279;](https://a.co/d/0fdHniDJ))
 
 ## &#127897; Podcast Recommendations
