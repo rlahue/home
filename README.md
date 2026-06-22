@@ -18,8 +18,8 @@
 	- ***Browser.*** Firefox ([iOS App Store link &#128279;](https://apps.apple.com/us/app/firefox-fast-private-browser/id989804926))
 	- ***Email.*** Gmail ([iOS App Store link &#128279;](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)), although I check out the 1st party Mail app with every new major OS release. Someday it'll be ready for my prime time!
 	- ***Messaging.*** Signal ([iOS App Store link &#128279;](https://apps.apple.com/us/app/signal-private-messenger/id874139669))
-	- ***Music.*** I use a combination of Apple Music and Apple Music Classical ([iOS App Store link &#128729;](https://apps.apple.com/us/app/apple-music-classical/id1598433714)).
- 	- ***Password Manager.*** 1Password ([iOS App Store link &#128279;](https://apps.apple.com/us/app/1password-password-manager/id1511601750))
+	- ***Music.*** I use a combination of Apple Music and Apple Music Classical ([iOS App Store link &#128279;](https://apps.apple.com/us/app/apple-music-classical/id1598433714)).
+	- ***Password Manager.*** 1Password ([iOS App Store link &#128279;](https://apps.apple.com/us/app/1password-password-manager/id1511601750))
 	- ***Podcasts.*** Overcast ([iOS App Store link &#128279;](https://apps.apple.com/us/app/overcast-podcast-app/id888422857))
 	- ***Reading.*** For eBooks, I use Kindle ([iOS App Store link &#128279;](https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613)). For RSS, I use NetNewsWire ([iOS App Store link &#128279;](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)).
 	- ***Recipe Management.*** Mela ([iOS App Store link &#128279;](https://apps.apple.com/us/app/mela-recipe-manager/id1548466041))
@@ -29,12 +29,12 @@
 - ***Tablet.*** I use an iPad Pro 12.9" (5th Gen; M1) ([Apple spec link &#128279;](https://support.apple.com/en-us/111896)) with a cracked screen that I rescued from the electronic recycling bin at my old job when they didn't want to pay to replace the screen. It's got a screen protector on and it works fine other than the cracked glass.
 	- ***Art.*** Procreate for iPad ([iPadOS App Store link &#128279;](https://apps.apple.com/us/app/procreate/id425073498))
 	- ***Stylus.*** Apple Pencil (2nd Generation) ([Apple spec link &#128279;](https://support.apple.com/en-us/111889))
-- ***Utility Knife.*** Gerberg Gear Paraframe I ([Amazon store link &#128279;](https://a.co/d/0fdHniDJ))
+- ***Utility Knife.*** Gerber Gear Paraframe I ([Amazon store link &#128279;](https://a.co/d/0fdHniDJ))
 
 ## &#127897; Podcast Recommendations
 These aren't in any particular order.
 
-My podcast player ("podcatcher") of choice is [Overcast for iOS &#128279;](https://overcast.fm/).
+My podcast player ("podcatcher") of choice is [Overcast (website link &#128279;)](https://overcast.fm/).
 
 ### &#127897;&#127917; Fiction
 I mostly listen to horror fiction. *Links and summaries to come.*
@@ -80,7 +80,7 @@ My tech news diet tends to be more Apple-focused because I find the things Apple
 	- [**Apple Podcasts** feed &#128279;](https://pod.link/launch?showId=vergecast&platform=apple)
 	- [**Overcast** feed &#128279;](https://pod.link/launch?showId=vergecast&platform=overcast)
 	- [**Spotify** feed &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
- 	- [**Website** &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
+	- [**Website** &#128279;](https://pod.link/launch?showId=vergecast&platform=spotify)
 
 ### &#127897;&#128172; Tech Talk
 AKA tech podcast bros chatting, mostly about Apple.
